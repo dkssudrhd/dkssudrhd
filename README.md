@@ -1,3 +1,4 @@
+작지만 기술 블로그도 운영중 입니다 .
 [기술 블로그](https://velog.io/@dkssudrhd/posts)
 
 <div align="center">
