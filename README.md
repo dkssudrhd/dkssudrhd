@@ -15,9 +15,5 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 </div>
 
-
-## GitHub stats
-![gihwanJang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkssudrhd&show_icons=true&theme=dracula)
-
 ## Baekjoon Online Judge level
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkssudrhd)](https://solved.ac/dkssudrhd/)
