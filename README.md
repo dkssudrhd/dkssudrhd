@@ -7,8 +7,7 @@
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssudrhd" alt="Top Langs" />
-    </a>
+        </a>
     <img src="https://github-readme-stats.vercel.app/api?username=dkssudrhd&show_icons=true&theme=github-light" alt="GitHub Stats" />
 </div>
 <div align="center">
