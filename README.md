@@ -14,5 +14,5 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 </div>
 
-## Baekjoon Online
+## 백준
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkssudrhd)](https://solved.ac/dkssudrhd/)
