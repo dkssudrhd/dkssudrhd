@@ -1,4 +1,4 @@
-[기술 블로그](https://velog.io/@dkssudrhd/posts)
+[나의 기술 블로그](https://velog.io/@dkssudrhd/posts)
 운영중 입니다. 👋🙇‍♂️
 
 <div align="center">
