@@ -1,5 +1,5 @@
 [나의 기술 블로그](https://velog.io/@dkssudrhd/posts)
-운영중 입니다. 👋🙇‍♂️ 
+공부한 내용 정리중 입니다. 👋🙇‍♂️ 
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
